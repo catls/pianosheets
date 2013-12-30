@@ -2107,8 +2107,8 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
           <Tie>
             </Tie>
           </Note>
@@ -2122,8 +2122,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
           </Note>
         <Note>
           <pitch>82</pitch>
@@ -2330,8 +2330,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>half</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
           <Tie>
             </Tie>
           </Note>
@@ -2345,8 +2345,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>75</pitch>
+          <tpc>11</tpc>
           </Note>
         <Note>
           <pitch>82</pitch>
@@ -2504,6 +2504,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
+          <selected>1</selected>
           <pitch>84</pitch>
           <tpc>14</tpc>
           </Note>
@@ -6941,8 +6942,8 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>110</Beam>
         <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
+          <pitch>65</pitch>
+          <tpc>13</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -6965,8 +6966,8 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>110</Beam>
         <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
+          <pitch>65</pitch>
+          <tpc>13</tpc>
           </Note>
         </Chord>
       <Beam id="111">
@@ -6991,8 +6992,8 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>111</Beam>
         <Note>
-          <pitch>67</pitch>
-          <tpc>15</tpc>
+          <pitch>65</pitch>
+          <tpc>13</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -7021,8 +7022,8 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>112</Beam>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -7045,8 +7046,8 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>112</Beam>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       <Beam id="113">
@@ -7071,16 +7072,16 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>113</Beam>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
         <Beam>113</Beam>
         <Note>
-          <pitch>65</pitch>
-          <tpc>13</tpc>
+          <pitch>67</pitch>
+          <tpc>15</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -8038,6 +8039,7 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>135</Beam>
         <Note>
+          <selected>1</selected>
           <pitch>56</pitch>
           <tpc>10</tpc>
           </Note>
@@ -8091,6 +8093,7 @@ p, li { white-space: pre-wrap; }
         <durationType>half</durationType>
         <Note>
           <track>5</track>
+          <selected>1</selected>
           <pitch>44</pitch>
           <tpc>10</tpc>
           <Tie>
@@ -8103,6 +8106,7 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Note>
           <track>5</track>
+          <selected>1</selected>
           <pitch>44</pitch>
           <tpc>10</tpc>
           </Note>

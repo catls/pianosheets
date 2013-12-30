@@ -80,19 +80,9 @@
     </Part>
   <Slur id="1">
     <SlurSegment no="0">
-      <offset x="-0.195874" y="0.0979372"/>
-      <o1 x="2.77556e-17" y="3.52574"/>
-      <o2 x="0.195874" y="0.587623"/>
-      <o4 x="16.2576" y="1.07731"/>
-      </SlurSegment>
-    </Slur>
-  <Slur id="2">
-    <SlurSegment no="0">
       <o1 x="-0.293811" y="0.979372"/>
-      <o4 x="15.8658" y="1.46906"/>
+      <o4 x="38.979" y="1.73023"/>
       </SlurSegment>
-    </Slur>
-  <Slur id="3">
     </Slur>
   <Ottava>
     <endHookHeight>1.5</endHookHeight>
@@ -107,7 +97,7 @@
       <off1 x="-2.41692" y="-5.59527"/>
       <off2 x="0" y="0"/>
       <offset x="-2.41692" y="-5.59527"/>
-      <pos x="16.6223" y="167.291"/>
+      <pos x="17.0357" y="167.291"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -145,7 +135,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-2.04142" y="-5.76244"/>
       <off2 x="0" y="0"/>
       <offset x="-2.04142" y="-5.76244"/>
-      <pos x="41.1476" y="167.124"/>
+      <pos x="41.7636" y="167.124"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -183,7 +173,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.2229" y="-5.56871"/>
       <off2 x="0" y="0"/>
       <offset x="-1.2229" y="-5.56871"/>
-      <pos x="66.1625" y="167.317"/>
+      <pos x="66.9345" y="167.317"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -221,7 +211,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.489863" y="-4.87868"/>
       <off2 x="0" y="0"/>
       <offset x="0.489863" y="-4.87868"/>
-      <pos x="42.8797" y="112.801"/>
+      <pos x="42.9904" y="112.801"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -259,7 +249,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.401659" y="-4.87653"/>
       <off2 x="0" y="0"/>
       <offset x="0.401659" y="-4.87653"/>
-      <pos x="67.6051" y="112.803"/>
+      <pos x="67.7798" y="112.803"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -297,7 +287,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.19653" y="-4.8489"/>
       <off2 x="0" y="0"/>
       <offset x="0.19653" y="-4.8489"/>
-      <pos x="92.1669" y="112.831"/>
+      <pos x="92.4522" y="112.831"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -335,7 +325,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.234832" y="-4.84568"/>
       <off2 x="0" y="0"/>
       <offset x="0.234832" y="-4.84568"/>
-      <pos x="117.019" y="112.834"/>
+      <pos x="117.368" y="112.834"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -411,7 +401,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.43927" y="-4.92054"/>
       <off2 x="0" y="0"/>
       <offset x="-1.43927" y="-4.92054"/>
-      <pos x="41.0497" y="140.362"/>
+      <pos x="40.9577" y="140.362"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -449,7 +439,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.27734" y="-4.92269"/>
       <off2 x="0" y="0"/>
       <offset x="-1.27734" y="-4.92269"/>
-      <pos x="67.2643" y="140.36"/>
+      <pos x="67.0803" y="140.36"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -487,7 +477,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.0872619" y="-4.95462"/>
       <off2 x="0" y="0"/>
       <offset x="0.0872619" y="-4.95462"/>
-      <pos x="117.302" y="140.328"/>
+      <pos x="117.394" y="140.328"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -525,7 +515,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.04126" y="-5.87631"/>
       <off2 x="0" y="0"/>
       <offset x="-1.04126" y="-5.87631"/>
-      <pos x="90.4939" y="167.01"/>
+      <pos x="91.0086" y="167.01"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -563,7 +553,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.142061" y="-5.80887"/>
       <off2 x="0" y="0"/>
       <offset x="0.142061" y="-5.80887"/>
-      <pos x="115.827" y="167.077"/>
+      <pos x="116.084" y="167.077"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -664,7 +654,7 @@ p, li { white-space: pre-wrap; }
         </html-data>
       </continueText>
     </Ottava>
-  <Slur id="4">
+  <Slur id="2">
     </Slur>
   <Ottava>
     <endHookHeight>1.5</endHookHeight>
@@ -679,7 +669,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.94769" y="-5.14532"/>
       <off2 x="0" y="0"/>
       <offset x="-0.94769" y="-5.14532"/>
-      <pos x="91.9303" y="140.138"/>
+      <pos x="91.6543" y="140.138"/>
       </Segment>
     <beginText>
       <style>32</style>
@@ -704,6 +694,13 @@ p, li { white-space: pre-wrap; }
         </html-data>
       </continueText>
     </Ottava>
+  <Slur id="3">
+    <tick>0</tick>
+    <SlurSegment no="0">
+      <o1 x="0.130583" y="1.30583"/>
+      <o4 x="38.7831" y="1.43641"/>
+      </SlurSegment>
+    </Slur>
   <Staff id="1">
     <VBox>
       <height>10</height>
@@ -761,6 +758,7 @@ p, li { white-space: pre-wrap; }
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
+        <Slur type="start" number="3"/>
         <Beam>0</Beam>
         <Note>
           <pitch>67</pitch>
@@ -769,6 +767,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
+        <Slur type="stop" number="3"/>
         <Beam>0</Beam>
         <Note>
           <pitch>68</pitch>
@@ -831,7 +830,6 @@ p, li { white-space: pre-wrap; }
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Slur type="start" number="1"/>
         <Beam>2</Beam>
         <Note>
           <pitch>75</pitch>
@@ -840,7 +838,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Slur type="stop" number="1"/>
         <Beam>2</Beam>
         <Note>
           <pitch>67</pitch>
@@ -903,7 +900,7 @@ p, li { white-space: pre-wrap; }
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Slur type="start" number="2"/>
+        <Slur type="start" number="1"/>
         <Beam>4</Beam>
         <Note>
           <pitch>67</pitch>
@@ -912,7 +909,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Slur type="stop" number="2"/>
+        <Slur type="stop" number="1"/>
         <Beam>4</Beam>
         <Note>
           <pitch>68</pitch>
@@ -1893,54 +1890,34 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="17">
-      <Symbol>
-        <name>arpeggio</name>
-        <offset x="-1.46888" y="0.573225"/>
-        <pos x="-0.26888" y="0.573225"/>
-        </Symbol>
       <Chord>
         <durationType>whole</durationType>
-        <Slur type="start" number="3"/>
         <StemDirection>down</StemDirection>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
-          <Symbol>
-            <name>arpeggio</name>
-            <offset x="-1.37112" y="0.195874"/>
-            <pos x="-1.37112" y="0.195874"/>
-            <tick>30720</tick>
-            </Symbol>
           </Note>
         <Note>
           <pitch>77</pitch>
           <tpc>13</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="18">
-      <Symbol>
-        <name>arpeggio</name>
-        <offset x="-2.04677" y="0.149547"/>
-        <pos x="-0.800104" y="0.149547"/>
-        </Symbol>
       <Chord>
         <durationType>whole</durationType>
-        <Slur type="stop" number="3"/>
         <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
-          <Symbol>
-            <name>arpeggio</name>
-            <offset x="-1.95874" y="-0.195874"/>
-            <pos x="-1.95874" y="-0.195874"/>
-            <tick>32640</tick>
-            </Symbol>
           </Note>
         <Note>
           <pitch>79</pitch>
           <tpc>15</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="19">
@@ -1954,6 +1931,8 @@ p, li { white-space: pre-wrap; }
           <pitch>80</pitch>
           <tpc>10</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="20">
@@ -1967,6 +1946,8 @@ p, li { white-space: pre-wrap; }
           <pitch>82</pitch>
           <tpc>12</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="21">
@@ -2142,6 +2123,8 @@ p, li { white-space: pre-wrap; }
           <pitch>77</pitch>
           <tpc>13</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="26">
@@ -2159,6 +2142,8 @@ p, li { white-space: pre-wrap; }
           <pitch>79</pitch>
           <tpc>15</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="27">
@@ -2172,6 +2157,8 @@ p, li { white-space: pre-wrap; }
           <pitch>80</pitch>
           <tpc>10</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="28">
@@ -2189,6 +2176,8 @@ p, li { white-space: pre-wrap; }
           <pitch>82</pitch>
           <tpc>12</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="29">
@@ -2545,10 +2534,12 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>36</Beam>
         <Note>
+          <selected>1</selected>
           <pitch>72</pitch>
           <tpc>14</tpc>
           </Note>
         <Note>
+          <selected>1</selected>
           <pitch>77</pitch>
           <tpc>13</tpc>
           </Note>
@@ -3880,7 +3871,7 @@ p, li { white-space: pre-wrap; }
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Slur type="start" number="4"/>
+        <Slur type="start" number="2"/>
         <Beam>58</Beam>
         <Note>
           <pitch>72</pitch>
@@ -3903,7 +3894,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>16th</durationType>
-        <Slur type="stop" number="4"/>
+        <Slur type="stop" number="2"/>
         <Beam>58</Beam>
         <Note>
           <pitch>72</pitch>
@@ -8080,6 +8071,7 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>136</Beam>
         <Note>
+          <selected>1</selected>
           <pitch>51</pitch>
           <tpc>11</tpc>
           </Note>
@@ -8091,6 +8083,7 @@ p, li { white-space: pre-wrap; }
         <durationType>half</durationType>
         <Note>
           <track>5</track>
+          <selected>1</selected>
           <pitch>44</pitch>
           <tpc>10</tpc>
           <Tie>
@@ -8103,6 +8096,7 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Note>
           <track>5</track>
+          <selected>1</selected>
           <pitch>44</pitch>
           <tpc>10</tpc>
           </Note>
@@ -10835,7 +10829,6 @@ p, li { white-space: pre-wrap; }
           </Note>
         <Note>
           <track>5</track>
-          <selected>1</selected>
           <pitch>63</pitch>
           <tpc>11</tpc>
           </Note>
@@ -11636,5 +11629,5 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>5</cursorTrack>
+  <cursorTrack>0</cursorTrack>
   </museScore>

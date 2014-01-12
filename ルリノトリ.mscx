@@ -939,27 +939,12 @@ p, li { white-space: pre-wrap; }
           <tpc>10</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <offset x="0.261166" y="4"/>
-        <pos x="0.261166" y="6"/>
-        <track>1</track>
-        <tick>28800</tick>
-        <color r="170" g="0" b="0"/>
-        <durationType>half</durationType>
-        </Rest>
-      <Rest>
-        <offset x="-1.95874" y="3"/>
-        <pos x="-1.95874" y="5"/>
-        <track>1</track>
-        <color r="170" g="0" b="0"/>
-        <durationType>quarter</durationType>
-        </Rest>
       <Chord>
         <track>1</track>
+        <tick>30240</tick>
         <durationType>quarter</durationType>
         <Note>
           <track>1</track>
-          <color r="170" g="0" b="0"/>
           <pitch>63</pitch>
           <tpc>11</tpc>
           </Note>
@@ -1257,21 +1242,12 @@ p, li { white-space: pre-wrap; }
           <tpc>10</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <offset x="-0.130583" y="3"/>
-        <pos x="-0.130583" y="5"/>
-        <track>1</track>
-        <tick>36480</tick>
-        <color r="170" g="0" b="0"/>
-        <dots>1</dots>
-        <durationType>half</durationType>
-        </Rest>
       <Chord>
         <track>1</track>
+        <tick>37920</tick>
         <durationType>quarter</durationType>
         <Note>
           <track>1</track>
-          <color r="170" g="0" b="0"/>
           <pitch>63</pitch>
           <tpc>11</tpc>
           </Note>
@@ -1518,28 +1494,12 @@ p, li { white-space: pre-wrap; }
           <tpc>15</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <offset x="-0.130583" y="4"/>
-        <pos x="-0.130583" y="6"/>
-        <track>1</track>
-        <tick>42240</tick>
-        <color r="170" g="0" b="0"/>
-        <dots>1</dots>
-        <durationType>half</durationType>
-        </Rest>
-      <Rest>
-        <offset x="0.391749" y="4"/>
-        <pos x="0.391749" y="6"/>
-        <track>1</track>
-        <color r="170" g="0" b="0"/>
-        <durationType>eighth</durationType>
-        </Rest>
       <Chord>
         <track>1</track>
+        <tick>43920</tick>
         <durationType>eighth</durationType>
         <Note>
           <track>1</track>
-          <color r="170" g="0" b="0"/>
           <pitch>68</pitch>
           <tpc>10</tpc>
           </Note>
@@ -4402,6 +4362,11 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>46</Beam>
         <Note>
+          <selected>1</selected>
+          <pitch>44</pitch>
+          <tpc>10</tpc>
+          </Note>
+        <Note>
           <pitch>56</pitch>
           <tpc>10</tpc>
           </Note>
@@ -6247,5 +6212,5 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     </Staff>
-  <cursorTrack>0</cursorTrack>
+  <cursorTrack>4</cursorTrack>
   </museScore>

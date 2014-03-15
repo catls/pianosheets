@@ -37,7 +37,7 @@
       </sig>
     </siglist>
   <tempolist fix="2">
-    <relTempo>104</relTempo>
+    <relTempo>86</relTempo>
     </tempolist>
   <Part>
     <Staff>
@@ -2088,8 +2088,8 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           <Tie>
             </Tie>
           </Note>
@@ -2103,8 +2103,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         <Note>
           <pitch>82</pitch>
@@ -2333,8 +2333,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>half</durationType>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           <Tie>
             </Tie>
           </Note>
@@ -2348,8 +2348,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
-          <pitch>75</pitch>
-          <tpc>11</tpc>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
           </Note>
         <Note>
           <pitch>82</pitch>
@@ -4868,8 +4868,8 @@ p, li { white-space: pre-wrap; }
           </Note>
         <Note>
           <track>1</track>
-          <pitch>80</pitch>
-          <tpc>10</tpc>
+          <pitch>82</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -4884,8 +4884,8 @@ p, li { white-space: pre-wrap; }
           </Note>
         <Note>
           <track>1</track>
-          <pitch>80</pitch>
-          <tpc>10</tpc>
+          <pitch>82</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -4900,8 +4900,8 @@ p, li { white-space: pre-wrap; }
           </Note>
         <Note>
           <track>1</track>
-          <pitch>80</pitch>
-          <tpc>10</tpc>
+          <pitch>82</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -4916,8 +4916,8 @@ p, li { white-space: pre-wrap; }
           </Note>
         <Note>
           <track>1</track>
-          <pitch>80</pitch>
-          <tpc>10</tpc>
+          <pitch>82</pitch>
+          <tpc>12</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -5578,26 +5578,23 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Chord>
-        <durationType>eighth</durationType>
-        <StemDirection>down</StemDirection>
-        <Note>
-          <pitch>70</pitch>
-          <tpc>12</tpc>
-          </Note>
-        <Note>
-          <pitch>80</pitch>
-          <tpc>10</tpc>
-          </Note>
-        </Chord>
-      <Chord>
+        <dots>1</dots>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>72</pitch>
-          <tpc>14</tpc>
+          <pitch>73</pitch>
+          <tpc>9</tpc>
+          </Note>
+        <Note>
+          <pitch>77</pitch>
+          <tpc>13</tpc>
           </Note>
         <Note>
           <pitch>82</pitch>
           <tpc>12</tpc>
+          </Note>
+        <Note>
+          <pitch>85</pitch>
+          <tpc>9</tpc>
           </Note>
         </Chord>
       <Chord>
@@ -6221,6 +6218,10 @@ p, li { white-space: pre-wrap; }
         </Rest>
       <Chord>
         <durationType>half</durationType>
+        <Articulation>
+          <offset x="0.130583" y="-1.43641"/>
+          <pos x="0.825575" y="-1.93641"/>
+          </Articulation>
         <Note>
           <pitch>60</pitch>
           <tpc>14</tpc>
@@ -6229,6 +6230,8 @@ p, li { white-space: pre-wrap; }
           <pitch>65</pitch>
           <tpc>13</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="76">
@@ -11524,6 +11527,8 @@ p, li { white-space: pre-wrap; }
           <pitch>53</pitch>
           <tpc>13</tpc>
           </Note>
+        <Arpeggio>
+          </Arpeggio>
         </Chord>
       </Measure>
     <Measure number="76">
